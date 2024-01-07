@@ -16,6 +16,7 @@ The output file created by the program gives the path from the start position to
 These intructions are developed for Linux, but you should easily be able to do the equivalent on Windows and Mac.
 1. Download the project3.cpp, makefile, and whatever input file you decide to use (or make your own) to the same folder on your machine
    - Make sure that you rename the input file you're using to "input.txt", otherwise the program will not read the file
-2. Run the command _make_
-3. Run _./project3_
-4. Now you can find the correct path through the maze by checking the "output.txt" file!
+2. If you don't already have the C++ Boost library installed you must install it from the [Boost website](https://www.boost.org)
+3. Run the command _make_
+4. Run _./project3_
+5. Now you can find the correct path through the maze by checking the "output.txt" file!
